@@ -42,7 +42,7 @@ pushq
 popq
 ```
 
-Please refer to the [project report](https://github.com/adithyasunil26/Y86-64-Processor/blob/main/Project_Report.pdf) for more details.
+Please refer to the [project report](https://github.com/guneeshvats/Y86-64-Processor/blob/main/Project_Report.pdf) for more details.
 
 ## Contents
 The contents of this repository are as follows
