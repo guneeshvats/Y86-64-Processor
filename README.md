@@ -4,6 +4,8 @@ A Y86-64 processor implemented using Verilog that is capable of running Y86-64 i
 
 This repository contains both a sequential model as well as a 5 stage pipelined model.
 
+Instructions on running this repo are given below:
+
 ## Features:
 - Procesor frequency of 1GHz
 - Harvard style memeory design with seperate data and instruction memeory.
